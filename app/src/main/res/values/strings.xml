@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Token Service</string>
+    <string name="Respuesta">Respuesta</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="token">Token</string>
+    <string name="resultados">resultados</string>
+    <string name="textview">TextView</string>
+    <string name="respuesta_token">token</string>
+    <string name="hello_world">Hola</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>
